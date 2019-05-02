@@ -1,3 +1,5 @@
 {
- "projects": {}
+  "projects": {
+    "merchant-service": "https://github.com/hasan-ahmed/merchant-service.git"
+  }
 }
